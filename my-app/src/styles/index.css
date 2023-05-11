@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+   
+}
+
+.cardsData{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10%;
+    overflow-x: auto;
+    
+}
