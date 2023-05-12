@@ -1,0 +1,19 @@
+.main{
+   font-family: 'Poppins', sans-serif; 
+   padding: 20px;
+   display: flex;
+   flex-direction: column;
+   
+}
+.main-title{
+    margin-bottom: 16px;
+}
+.main-text{
+    margin-top: 0px;
+}
+.main-image{
+    max-height: 400px;
+    position: relative;
+    max-width: 800px;   
+    align-self: center;
+}
